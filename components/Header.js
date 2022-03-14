@@ -43,7 +43,7 @@ const Header = () => {
             Search
           </button>
         </form>
-        <Avatar className="ml-auto" url="https://coaching.papareact.com/ai9" />
+        <Avatar className="ml-auto" url="https://firebasestorage.googleapis.com/v0/b/manage-karo-prod.appspot.com/o/personal%2FImage%2FAjay_profile.jpg?alt=media&token=de0968c6-9225-4bc5-813f-a1af2cfe8080" />
       </div>
       <HeaderOptions />
     </header>
