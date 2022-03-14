@@ -37,7 +37,7 @@ export default function Home() {
           {/**Icon */}
           {/**Avatar */}
           <ViewGridIcon className="h-10 w-10 p-2 rounded-full hover:bg-gray-100 cursor-pointer" />
-          <Avatar url="https://coaching.papareact.com/ai9" />
+          <Avatar url="https://firebasestorage.googleapis.com/v0/b/manage-karo-prod.appspot.com/o/personal%2FImage%2FAjay_profile%20(1)%20(1)%20(1).jpg?alt=media&token=e28b9911-20d2-42ab-a86c-c9cbfa324a13" />
           {/* <Avatar /> */}
         </div>
       </header>
